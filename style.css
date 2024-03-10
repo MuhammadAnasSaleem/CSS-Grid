@@ -1,6 +1,13 @@
 body{
     background-color: #2B2E56;
 }
+.head-main{
+    font-size: 42px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #EC3437;
+    color: #f0ffff;
+}
 .container{
     display: grid;
     grid-template-columns: repeat(4 ,200px);
